@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gouravmodi25&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Gouravmodi25?label=Followers&style=for-the-badge&color=ff69b4" alt="Followers" />
-  <a href="https://linkedin.com/in/gouravmodi07">
+  <a href="https://linkedin.com/in/gourav-modi07">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gouravmodi39@gmail.com">
