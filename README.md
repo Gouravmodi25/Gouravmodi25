@@ -158,8 +158,7 @@ I am a **passionate Full Stack Developer** with hands-on experience building **e
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gouravmodi25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gouravmodi25&theme=tokyonight&hide_border=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Gouravmodi25&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
 </p>
 
 <p align="center">
