@@ -199,7 +199,7 @@ I am a **passionate Full Stack Developer** with hands-on experience building **e
 
 ## 🏅 Certifications
 
-> 🎓 **[Web Development 101 — Pupilfirst Certificate](https://www.pupilfirst.org/)**
+> 🎓 **[Web Development 101 — Pupilfirst Certificate](https://www.pupilfirst.school/c/240903-762KCT)**
 > Mastered front-end development fundamentals including **HTML5**, **CSS3**, and **JavaScript** — built responsive, accessible, and user-centric websites optimized for cross-device compatibility and seamless UX.
 
 ---
